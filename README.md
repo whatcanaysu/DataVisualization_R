@@ -6,6 +6,8 @@ Here the tasks that I included in notebook:
 
 ![Alt text](/img.png "Optional title")
 
+![alt text](https://github.com/whatcanaysu/DataVisualization_R/blob/main/img.png?raw=true)
+
 
 Description
 Analysing UK house price data from the Land Registry. 
